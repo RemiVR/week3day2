@@ -1,0 +1,10 @@
+.link{
+	text-align: center;
+	height: 40vh;
+	width: 60vw;
+	background-color: #ff6666;
+	border: solid 3px blue;
+	border-radius: 15px;
+	font-size: 30px;
+	color: #fff;
+}
